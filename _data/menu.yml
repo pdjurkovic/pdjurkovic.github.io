@@ -1,0 +1,15 @@
+# Meny displayed on homepage
+
+entries:
+  - title: about
+    entries:
+      - title: Embedded Software Engineer working in the automotive sector as SW Technical Project Lead for smart access devices.
+      - title: Doing most of the work at low level embedded but i'm non-binary to it.
+  - title: if you need more info
+    entries:
+      - title: my résumé
+        url: about
+  - title: or contact
+    entries:
+      - title: if you really must
+        url: contact

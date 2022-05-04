@@ -7,4 +7,4 @@ __located__ in Serbia
 
 for __email__ just put mail@ to my domain
 
-__linkedin__ [account](https://www.linkedin.com/in/petar-djurkovic-0a759230/)
+__LinkedIn__ [account](https://www.linkedin.com/in/petar-djurkovic-0a759230/)

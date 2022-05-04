@@ -1,12 +1,12 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |spec|
-  spec.name          = "no-style-please"
+  spec.name          = "pdjurkovic"
   spec.version       = "0.4.7"
-  spec.authors       = ["Riccardo Graziosi"]
-  spec.email         = ["riccardo.graziosi97@gmail.com"]
+  spec.authors       = ["Riccardo Graziosi/Petar Djurkovic"]
+  spec.email         = ["mail@petardjurkovic.com"]
 
-  spec.summary       = "A (nearly) no-CSS, fast, minimalist Jekyll theme."
+  spec.summary       = "based on no-style-please Jekyll theme."
   spec.homepage      = "https://github.com/riggraz/no-style-please"
   spec.license       = "MIT"
 

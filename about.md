@@ -28,7 +28,7 @@ _February 2012 - April 2016_
 - Clinical and Technical support in Ophthalmology. Spending a lot of time in the OR with doctors, bridging the technical gap and improving products with OEMs.
 
 ### Internship in the field of Industrial Automation
-[Institute Mihajlo Pupin](http://www.pupin.rs/en/home/   
+[Institute Mihajlo Pupin](http://www.pupin.rs/en/home/)   
 _February Jun 2010 - September 2010_
 - HMI Touch Panel design and custom Linux based PLC programming in Water Management System of Hydropower Plants in Serbia
 

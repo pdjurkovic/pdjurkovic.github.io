@@ -54,4 +54,5 @@ _2006 - 2010_
 - __Editors__: whatever keeps me from debugging the toolchain into the wee hours, I'll use it. Yes, I like VS Code but if I would have to spend half of my time fixing the toolchain just so I could use it - not worth it. Not a vi(m) or emacs cultist.
 - __Version control__: It's a tool, not the product, most major (commercial) options get the job done IMO (_with some varying degree of ease_), but self-hosted git is as good as them.
 - __Standards and processes__: While working on projects I had to comply with international standards like MISRA, ASPICE (derived from ISO/IEC 15504), ISO 26262, WP.29 (UNECE), and a bit of IEC 62304.
-- __Other__: I Like playing around with electronics, PCB design, and HW tools in general (a bit of a hoarder). Trying to automate stuff here and there, but without relying on data gobbling services. Almost anything technical can spark my interest...
+- __Other__: I like playing around with electronics, PCB design (initially Eagle, not KiCad), Test and Measurement tools and HW tools in general (a bit of a hoarder). Trying to automate stuff here and there, but without relying on data gobbling services. 3D printing on my Prusa Mini, but my design skills in Fusion 360 are pretty limited.
+Almost anything technical can spark my interest...

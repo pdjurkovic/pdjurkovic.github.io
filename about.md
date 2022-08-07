@@ -27,6 +27,11 @@ _May 2016 - April 2018_
 _February 2012 - April 2016_
 - Clinical and Technical support in Ophthalmology. Spending a lot of time in the OR with doctors, bridging the technical gap and improving products with OEMs.
 
+### Internship in the field of Industrial Automation
+[Institute Mihajlo Pupin](http://www.pupin.rs/en/home/   
+_February Jun 2010 - September 2010_
+- HMI Touch Panel design and custom Linux based PLC programming in Water Management System of Hydropower Plants in Serbia
+
 
 ***
 ## Education
@@ -34,13 +39,13 @@ _February 2012 - April 2016_
 [University of Belgrade, School of Electrical Engineering](https://www.etf.bg.ac.rs/)
 _2010 - 2011_
 - Majored in Signal Processing and System Control, with a GPA of 10 out of 10. 
-- Master's thesis _Wavelet Based Image Compression_ successfully defended with highest grade.
+- Master's thesis _Wavelet Based Image Compression_ successfully defended with the highest grade.
 
 ### BSc Electrical Engineering and Computer Science
 [University of Belgrade, School of Electrical Engineering](https://www.etf.bg.ac.rs/)
 _2006 - 2010_
 - Majored in Signal Processing and System Control, with a GPA of 9.29 out of 10. 
-- Diploma thesis _Determining of Speech Formant Frequencies Using Methods of Spectral Estimation_ successfully defended with highest grade.
+- Diploma thesis _Determining of Speech Formant Frequencies Using Methods of Spectral Estimation_ successfully defended with the highest grade.
 
 ***
 ## Skills and Competences (and thoughts)

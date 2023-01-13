@@ -17,8 +17,8 @@ _September 2019 - present / May 2018 - August 2019_
 
 
 ### Clinical Engineer
-[Meditech d.o.o.](http://meditech.rs/)|[Alcon AG](https://www.alcon.com/)   
-_May 2016 - April 2018_|_February 2012 - April 2016_
+[Meditech d.o.o.](http://meditech.rs/) | [Alcon AG](https://www.alcon.com/)   
+_May 2016 - April 2018_ | _February 2012 - April 2016_
 - Clinical and Technical support in Ophthalmology. Spending time in the OR with doctors, bridging the technical gap between surgeons and product developers. Providing guidance on one end and feedback on the other with a goal of improving medical devices used in the OR.
 - Worked with Excimer and Femtosecond lasers (LASIK), 532nm lasers, phacoemulsification and vitreoretinal surgical devices, and various imaging devices for both anterior and posterior eye segment.
 

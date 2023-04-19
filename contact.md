@@ -3,7 +3,7 @@ layout: page
 title: contact
 ---
 
-__located__ in Serbia
+__located__ in Eindhoven, NL
 
 for __email__ just put mail@ to my domain
 

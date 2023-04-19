@@ -4,7 +4,7 @@ email: mail@petardjurkovic.com # email of site's author
 url: https://petardjurkovic.com # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  Personal site/portfolio including resume and basic contact information for Petar Djurkovic (Petar Đurković),Embedded SW Engineer. 
+  Personal site/portfolio including resume and basic contact information for Petar Djurkovic (Petar Đurković), Embedded SW Engineer. 
 
 permalink: pretty
 

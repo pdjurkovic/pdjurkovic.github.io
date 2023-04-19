@@ -7,9 +7,15 @@ title: résumé
 
 ***
 ## Experience
+### SW Designer
+[Sioux Technologies B.V.](https://www.sioux.eu/)   
+_February 2023 - present_
+- Either a bit too early to add more details here or I'm a bit lazy to keep it up to date, but the company's moto is "We bring high-tech to life".
+
+
 ### SW Technical Project Lead / SW Developer
 [Continental AG](https://continental-automotive.com/)   
-_September 2019 - present / May 2018 - August 2019_
+_September 2019 - January 2023 / May 2018 - August 2019_
 - Initially started as a SW developer working on access control devices that include Remote Keyless Entry Systems and handsfree access solution - PASE. Included implementing RF, LF and UWB wireless communication.
 - Working with bare metal and custom lightweight RTOS – from low level drivers to application SW, using MISRA subset of C99.
 - Activities spread across the entire V cycle – from early concepts to support in production.
